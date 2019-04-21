@@ -14,7 +14,7 @@ Point in :math:`n \in \mathbb{N}` dimension is denoted
 .. math::
    \mathbf{p}_i \in \mathbb{R}^n
 
-An sequence of points of size :math:`N`, for which index set is
+A sequence of points of size :math:`N`, for which index set is
 :math:`J = \{0,\ldots ,N-1\}`, is denoted
 
 .. math::
